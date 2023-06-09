@@ -7,3 +7,4 @@ caracteres : https://www.pulsesincrease.eu/fr/experiment/instructions-and-tutori
 - 2023-05-29  pre-germination en eau
 - 2023-05-30  mise en terre : merles ... 
 - 2023-06-08  levée des graines, 2/3 pour E1 et 2/3 pour E2 (Phaseolus vulgaris INCBN_01670); rien pour les autres. 
+- 2023-06-08  levée F1 INCBN_00513 (1/3) et B1 INCBN_00235 (1/3)
