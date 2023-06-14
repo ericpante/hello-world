@@ -4,6 +4,14 @@ variétés : https://apex.ipk-gatersleben.de/apex/f?p=297:1:5880942149524:::RR,4
 
 caracteres : https://www.pulsesincrease.eu/fr/experiment/instructions-and-tutorials#
 
+plan de semis : 
+
+|-------|-------|-------|-------|-------|-------|
+| 1. C1 | 2. A2 | 3. D2 | 4. B1 | 5. F2 | 6. E2 |
+|-------|-------|-------|-------|-------|-------|
+| 7. B2 | 8. C2 | 9. E1 |10. A2 |11. F1 |12. D1 |
+|-------|-------|-------|-------|-------|-------|
+
 - 2023-05-29  pre-germination en eau
 - 2023-05-30  mise en terre : merles ... 
 - 2023-06-08  levée des graines, 2/3 pour E1 et 2/3 pour E2 (Phaseolus vulgaris L. subsp. vulgaris var. nanus Asch. INCBN_01670, bush); rien pour les autres. 
