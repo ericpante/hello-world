@@ -6,11 +6,11 @@ caracteres : https://www.pulsesincrease.eu/fr/experiment/instructions-and-tutori
 
 plan de semis : 
 
-|-------|-------|-------|-------|-------|-------|
+
 | 1. C1 | 2. A2 | 3. D2 | 4. B1 | 5. F2 | 6. E2 |
 |-------|-------|-------|-------|-------|-------|
 | 7. B2 | 8. C2 | 9. E1 |10. A2 |11. F1 |12. D1 |
-|-------|-------|-------|-------|-------|-------|
+
 
 - 2023-05-29  pre-germination en eau
 - 2023-05-30  mise en terre : merles ... 
